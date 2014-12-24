@@ -1,30 +1,30 @@
 [
   {
-    "repository": "android_hardware_sony_DASH",
+    "repository": "Cyanogenmod/android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH"
   },
   {
-  "repository": "android_device_qcom_common",
+  "repository": "Cyanogenmod/android_device_qcom_common",
   "target_path": "device/qcom/common"
   },
     {
-    "repository": "android_hardware_qcom_fm",
+    "repository": "Cyanogenmod/android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm"
   },
   {
-  "repository":   "android_kernel_sony_lbmsm8960t",
+  "repository":   "XPerience-AOSP-Lollipop/android_kernel_sony_lbmsm8960t",
   "target_path": "kernel/sony/lbmsm8960t"
   },
   {
-  "repository": "android_vendor_lbsony",
+  "repository": "XPerience-AOSP-Lollipop/android_vendor_lbsony",
   "target_path": "vendor/lbsony"
   },
    {
-  "repository": "android_device_sony_lbcommon",
+  "repository": "XPerience-AOSP-Lollipop/android_device_sony_lbcommon",
   "target_path": "device/sony/lbcommon"
   },
   {
-  "repository": "android_device_sony_lbqcom-common",
+  "repository": "XPerience-AOSP-Lollipop/android_device_sony_lbqcom-common",
   "target_path": "device/sony"lbqcom-common"
   }
 ]
